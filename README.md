@@ -1,5 +1,6 @@
 # Bem-vindo(a) ao nosso projeto ThermoHolic! :beers:
-![logo](https://user-images.githubusercontent.com/126488672/233241150-e6adf4b9-6f08-4ea0-b082-e551a9516916.jpg)
+![logo](https://user-images.githubusercontent.com/126488672/233242308-8763c5f6-e1a5-456d-9d14-86fd4281bda1.jpg)
+
 
 Descrição do nosso projeto:
 
