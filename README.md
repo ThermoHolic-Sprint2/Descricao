@@ -17,7 +17,7 @@ Nosso projeto busca otimizar seu tempo e evitar desperdícios para o seu negóci
 • Construção do front-end com HTML5, CSS3 e JavaScript;
 • Utilização do NodeJS como servidor para a API e integração com o banco de dados.
 
-## COmo utilizar:
+## Como utilizar:
 Acesse os repositórios criados e clone-os em sua máquina local para usufruir do projeto criado. É importante seguir os passos para a correta utilização.
 
 ## Tecnologias utilizadas:
