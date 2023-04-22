@@ -10,11 +10,17 @@ Nosso projeto busca otimizar seu tempo e evitar desperdícios para o seu negóci
 
 ## Funcionalidades:
 • Monitoramento de temperatura em tempo real através do sensor LM35 conectado ao Arduino;
+
 • Visualização dos dados coletados em um painel geral, utilizando gráficos gerados pelo Chart.js;
+
 • Controle de acesso através de tela de login e cadastro de usuários;
+
 • Integração com banco de dados MySQL para armazenamento das informações coletadas;
+
 • API para comunicação entre o Arduino e o site;
+
 • Construção do front-end com HTML5, CSS3 e JavaScript;
+
 • Utilização do NodeJS como servidor para a API e integração com o banco de dados.
 
 ## Como utilizar:
